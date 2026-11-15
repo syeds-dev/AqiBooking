@@ -1,0 +1,11 @@
+# Copy these lines into local.properties (git-ignored). Never commit real keys.
+# Android Studio adds sdk.dir to local.properties automatically.
+
+# Google Maps SDK for Android key (needed for map tiles)
+MAPS_API_KEY=
+
+# aqicn.org token. Leave empty to use the built-in air quality mock.
+AQICN_TOKEN=
+
+# There is no real /books server, so keep this true unless you point the app at one.
+USE_MOCK_BOOKS_API=true
