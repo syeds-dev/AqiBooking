@@ -1,4 +1,4 @@
-# AQI Booking — MVL Android Assignment
+# AQI Booking
 
 https://github.com/user-attachments/assets/1faf89a9-54ef-451c-adbd-d323a1cf9fd2
 
