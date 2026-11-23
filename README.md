@@ -1,5 +1,7 @@
 # AQI Booking — MVL Android Assignment
 
+https://github.com/user-attachments/assets/1faf89a9-54ef-451c-adbd-d323a1cf9fd2
+
 Pick two places (A and B) on a Google Map, see the air quality at the marker, book the trip
 (`POST /books`) and see this month's bookings (`GET /books?year=&month=`).
 
